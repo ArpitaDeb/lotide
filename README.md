@@ -25,9 +25,6 @@ This project was created and published by me as part of my learnings at Lighthou
 
 The following functions are currently implemented:
 
-* `function1(...)`: description
-* `function2(...)`: description
-* `function3(...)`: description
 * `function head(...)`: A function that returns the first element from the array.
 * `function tail(...)`: A function that returns every element except the head (first element) of the array.
 * `function middle(...)`:A function that returns an array with only the middle element(s) of the provided array.
